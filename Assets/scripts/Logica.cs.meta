@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 28084752de3dd7740a14a4304c962dca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score_text: {instanceID: 0}
+  - pantalla_gameover: {instanceID: 0}
+  - dingSFX: {instanceID: 0}
+  - logic: {instanceID: 0}
+  - boto: {instanceID: 0}
+  - imatge: {instanceID: 0}
+  - audioMixer: {fileID: 24100000, guid: c662db2e4e6e3da49afee61bbecc5bd5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
